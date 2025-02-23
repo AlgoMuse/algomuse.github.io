@@ -232,28 +232,11 @@ Prove that \( f(x) = 0 \) has no integer solutions.
 
 <details>
 <summary> Solution </summary>
-
 <p>
-Suppose \(f(x)=c_{n} x^{n}+c_{n-1} x^{n-1}+\cdots+c_{0}\)
-
-Since \( f(0) \) and \( f(1) \) are odd numbers, \(c_0\) is odd and
-
-\[ \text{Parity of } \sum_{i=1}^n c_i \text{ is even}\]
-
-
-Suppose \(f(x)\) has an integer root \(r\). Let us see what happens to the parity of \( f(r) \).
-
-For \(n\geq 1\), the parity of \(r^n\) is the same as that of \(r\). So:
-
-\begin{align}
-\text{Parity of }f(r) &= \text{Parity of }r \times \text{Parity of} \sum_{i=1}^n c_i  + \text{Parity of }c_0 \\
-\text{Parity of }f(r) &= \text{odd}
-\end{align}
-
-Since \( f(r) \) is an odd number, \(r\) cannot be a root of the polynomial.
-
+Suppose \(a\) is an integer root, so \(f(x)=(x-a)g(x)\). \(f(1) = (1-a)g(1)\) and \(f(0) = -a g(0)\). Either
+\( (1-a) \) or \( -a \) is an even number, so both  \( f(0)\) and \( f(1)\) cannot be odd numbers.
 </p>
-
+<br><i>Solution due to Ravi.</i>
 </details>
 
 ---
