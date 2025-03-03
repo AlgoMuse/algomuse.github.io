@@ -16,19 +16,20 @@ This website is for class XI and XII students who wish to pursue B.Sc. at Chenna
 **Disclaimer.** This is an unofficial resource and is not affiliated to CMI.
 {: .fs-3 .bg-grey-lt-000 .text-gray-004 }
 
----
 
-<!--
 
 #### Announcement
 {: .fs-4}
 
 
-- Cutoff marks for 2024 are added below.
+- The first mock test is scheduled on 7th March 2025 (Saturday), 4pm to 7pm. The link to the test will be shared on the mailing list. This is a free test and no payment is required to participate. 
+
+
 
 
 ---
 
+<!--
 
 
 #### What's on this site?

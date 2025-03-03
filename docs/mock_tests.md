@@ -16,7 +16,7 @@ title: Mock tests
 
 <br>
 
-#### 44 sign-ups so far
+#### 25 sign-ups so far
 
 <!--
 <progress id="progressBar" style="width:95%" max="60" value="11"></progress>
@@ -37,6 +37,8 @@ on standard techniques rather than ingenuity.
 
 ## Format
 Each test will have 10 objective questions and 6 subjective questions. Each test will carry a total of 100 marks (40+60).
+The tests are open to everybody on the mailing list. No payment is required to participate in the tests.
+Only objective questions will be evaluated. Responses from students will be made public, but with anonymized names.
 
 
 <!--
@@ -52,10 +54,11 @@ The mock tests for the year 2023 is over. The next round of mock tests will star
 
 Date | Day | Timing | Topics
 ---|---|--|--
-10 Feb '24 | Saturday | 2pm - 5pm | Full-syllabus test
-24 Feb '24| Saturday | 2pm - 5pm | Full-syllabus test
+7 March '25 | Friday | 4pm - 7pm | Full-syllabus test
+28 March '25| Friday | 4pm - 7pm | Full-syllabus test
 
 
+<!--
 
 ## Registration fees
 
@@ -71,7 +74,6 @@ your email ID.
 
 <img src="/assets/images/cmi-tomato-qr.png"/>
 
-<!--
 
 ## Types of tests
 
