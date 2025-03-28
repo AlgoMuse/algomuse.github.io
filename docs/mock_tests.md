@@ -55,7 +55,7 @@ The mock tests for the year 2023 is over. The next round of mock tests will star
 Date | Day | Timing | Topics
 ---|---|--|--
 7 March '25 | Friday | 4pm - 7pm | Full-syllabus test
-28 March '25| Friday | 4pm - 7pm | Full-syllabus test
+4 April '25| Friday | 4pm - 7pm | Full-syllabus test
 
 
 <!--
