@@ -23,7 +23,7 @@ This website is for class XI and XII students who wish to pursue B.Sc. at Chenna
 {: .fs-4}
 
 
-- The next mock test is scheduled on 4th April 2025 (Friday), 4pm to 7pm IST. The link to the test will be shared on the mailing list. This is a free test and no payment is required to participate. 
+- The next mock test is scheduled on 5th April 2025 (Saturday), 4pm to 7pm IST. The link to the test will be shared on the mailing list. This is a free test and no payment is required to participate. 
 
 
 
