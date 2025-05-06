@@ -20,8 +20,18 @@ Evaluate the limit:
 
 \\[ \lim_{x \rightarrow 1}\left(\frac{n- \displaystyle \sum_{k=1}^n x^{k}}{1-x}\right) \\]
 
+<details><summary>Solution 1</summary>
+<i> Solution due to Vamsi Kalapala.</i><br>
 
-<details><summary>Solution</summary>
+\[ \lim_{x \rightarrow 1}\left(\frac{ (1-x) + (1-x^2) + \cdots + (1-x^n)}{1-x}\right) \]
+
+All the terms in the numerator have \( (1-x) \) as a common factor: <br>
+
+\[ \lim_{x \rightarrow 1}\left(   1+ (1+x) + \cdots + (1+x+\cdots+x^{n-1} \right)  = n(n+1)/2  \]
+
+</details>
+
+<details><summary>Solution 2</summary>
 
 We apply the L'Hospital's rule and differentiate both the numerator and the denominator.
 
