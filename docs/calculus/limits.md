@@ -26,7 +26,7 @@ Evaluate the limit:
 We apply the L'Hospital's rule and differentiate both the numerator and the denominator.
 
 \begin{array}{rl}
- \lim_{x\rightarrow 1}&\displaystyle \frac{-n x^{n-1}-(n-1) x^{n-2}-\cdots-x-1}{-1}  \\
+ \lim_{x\rightarrow 1}&\displaystyle \frac{-n x^{n-1}-(n-1) x^{n-2}-\cdots-2x-1}{-1}  \\
  =&\frac{n(n+1)}{2}
 \end{array}
 
