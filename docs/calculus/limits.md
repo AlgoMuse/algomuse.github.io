@@ -31,6 +31,8 @@ All the terms in the numerator have \( (1-x) \) as a common factor: <br>
 
 </details>
 
+<br>
+
 <details><summary>Solution 2</summary>
 
 We apply the L'Hospital's rule and differentiate both the numerator and the denominator.
