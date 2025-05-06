@@ -28,11 +28,8 @@ Evaluate the limit:
 All the terms in the numerator have \( (1-x) \) as a common factor: <br>
 
 \[ \lim_{x \rightarrow 1}\left(   1+ (1+x) + \cdots + (1+x+\cdots+x^{n-1} \right)  = n(n+1)/2  \]
-
 </details>
-
-<br>
-
+<p></p>
 <details><summary>Solution 2</summary>
 
 We apply the L'Hospital's rule and differentiate both the numerator and the denominator.
