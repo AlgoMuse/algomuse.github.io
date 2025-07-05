@@ -411,6 +411,19 @@ The scores shown below were shared by former students who were privy to this dat
 -->
 
 
+### 2025 cutoff marks
+
+The exam was for 120 marks. 40 marks for Part A and 80 marks for Part B.
+Part A's screening cutoff was 16/40. Overall cutoff marks are given below.
+
+
+Type | General Category and Males |  Other categories
+-----|------|----
+Without scholarship| 47/120 | 44/120
+With scholarship| 59/120 | 49/120 
+
+
+
 ### 2024 cutoff marks
 
 The exam was for 120 marks. 40 marks for Part A and 80 marks for Part B.
