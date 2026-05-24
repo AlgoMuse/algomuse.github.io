@@ -19,11 +19,11 @@ This website is for class XI and XII students who wish to pursue B.Sc. at Chenna
 
 ---
 
-#### Announcement
+#### CMI 2026 Poll
 {: .fs-4}
 
 
-- The second mock test was conducted on April 5th.
+- If you gave the CMI exam this year, can you please tell what marks you are expecting? Poll link: [https://strawpoll.com/05Zdz0wRDn6](https://strawpoll.com/05Zdz0wRDn6)
 
 
 
