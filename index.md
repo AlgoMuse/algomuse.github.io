@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "In-depth solutions to all CMI entrance exam questions."
+description: "Solutions to CMI entrance exam questions."
 permalink: /
 last_modified_date: 2020-04-27T17:54:08+0000
 
